@@ -1,6 +1,6 @@
 ### Hello world! 👋  
 ## 🚀 About Me
-- 👨‍💻 My name is Aleksandra Kłos and I'm currently a 3rd year Computer Science and Information Systems student at the Warsaw University of Technology. I'm a passionate coder and relentless problem-solver who always willing to lear across different technologies and domains, seeing the connections between them.
+- 👨‍💻 My name is Aleksandra Kłos and I'm currently a 3rd year Computer Science and Information Systems student at the Warsaw University of Technology.
 - 🧠 I’m currently diving deep into Data Science, Machine Learning, Quantum Computing as well as Front-End Development and UI/UX design.
 - 📚 Apart from being a CS student, I'm also a Maths and Physics tutor for International Baccalaureate Programme.
 - 🌟 I'm also interested in reading fantasy books, drawing, playing video games and astrophysics & quantum physics.
