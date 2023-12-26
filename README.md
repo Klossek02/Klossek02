@@ -5,7 +5,7 @@
 - 🌟 I'm also interested in reading fantasy books, drawing, playing video games, astrophysics and quantum physics.
 
 ## 💻 Technology Stack
-- 🛠️ I know and use C, C++, C#, Python, R, Matlab, MS SQL 
+- 🛠️ C, C++, C#, Java, Python, R, Matlab, MS SQL, MySQL, Git, Jupyter Notebook, Qiskit, JavaScript
 
 ## 📫 Get in Touch
 - Connect with me on www.linkedin.com/in/aleksandra-kłos-5b69b6236
