@@ -1,7 +1,7 @@
 ### Hello world! 👋  
 ## 🚀 About Me
-- 👨‍💻 My name is Aleksandra Kłos and I'm a 3rd year Computer Science and Information Systems student at the Warsaw University of Technology.
-- 🧠 I’m currently diving deep into Data Science, Machine Learning, Quantum Computing as well as the Neuroinformatics fundamentals.
+- 👨‍💻 My name is Aleksandra Kłos and I'm a MsC Data Science student at the Warsaw University of Technology.
+- 🧠 I’m currently diving deep into Data Science, Machine Learning and Medical imaging fundamentals.
 - 🌟 I'm also interested in reading fantasy books, drawing, playing video games, astrophysics and quantum physics.
 
 ## 💻 Technology Stack
