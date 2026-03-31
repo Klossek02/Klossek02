@@ -1,11 +1,11 @@
 ### Hello world! 👋  
 ## 🚀 About Me
-- 👨‍💻 My name is Aleksandra Kłos and I'm a MsC Data Science student at the Warsaw University of Technology.
+- 👨‍💻 My name is Aleksandra Kłos, and I'm an MSc Data Science and Biomedical Engineering student at the Warsaw University of Technology.
 - 🧠 I’m currently diving deep into Data Science, Machine Learning and Medical imaging fundamentals.
-- 🌟 I'm also interested in reading fantasy books, drawing, playing video games, astrophysics and quantum physics.
+- 🌟 I'm also interested in reading fantasy books, drawing, playing video games.
 
 ## 💻 Technology Stack
-- 🛠️ C, C++, C#, Java, JavaScript, HTML5, CSS3, Python, R, Matlab, MS SQL, MySQL, Git, Jupyter Notebook, Qiskit
+- 🛠️ C, C++, C#, Java, JavaScript, HTML5, CSS3, Python, R, Matlab, MS SQL, MySQL, Git, Jupyter Notebook
 
 ## 📫 Get in Touch
 - Connect with me on www.linkedin.com/in/aleksandra-kłos-5b69b6236
